@@ -6,3 +6,7 @@ Lookout community for them Sand People.
 To view: 
 1. import/ clone the repo
 2. open the index.html file
+
+This section is author notes on to do's:
+- add login/register
+- add subscription model
